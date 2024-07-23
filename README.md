@@ -1,4 +1,6 @@
-# UD_PRA_CPP_COURSE
+# C++ Course
+
+
 Practical C++: Learn C++ Basics Step by Step
 
 Hello anyone that might read this!
